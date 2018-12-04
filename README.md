@@ -19,4 +19,4 @@ Contents of the folder:
 - __functions.R__ - some customized functions for plotting
 ...
 
-Additional files with numerical simulation results used in the above scripts could be obtained from: LINK
+Additional files with numerical simulation results used in the above scripts could be obtained from: <LINK>
