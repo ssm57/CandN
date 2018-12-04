@@ -18,7 +18,7 @@ Contents of the folder:
 
 - __functions.R__ - some customized functions for plotting
 
-- __plots/__
+- __plots/__ - folder containing plots
 ...
 
 Additional files with numerical simulation results used in the above scripts could be obtained from: [Named Link]LINK
