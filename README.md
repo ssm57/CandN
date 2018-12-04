@@ -2,8 +2,6 @@
 
 ## The project contains files for Dubinkina et al. 2018, "Alternative stable states in a model of microbial community limited by multiple essential nutrients". ##
 
----------------
-
 Contents of the folder:
 
 - __Dynamic_Stability_L2/__ - code which performs dynamic perturbation analysis for 2Cx2Nx4S model
