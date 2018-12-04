@@ -17,3 +17,6 @@ Contents of the folder:
 - __analyze_6Cx6N.R__ - code which performs analysis of Monte-Carlo spanning results for 6Cx6Nx36S model
 
 - __functions.R__ - some customized functions for plotting
+...
+
+Additional files with numerical simulation results used in the above scripts could be obtained from: LINK
