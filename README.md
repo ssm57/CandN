@@ -12,7 +12,7 @@ Contents of the folder:
 
 - __Yield_Variation.ipynb__ - implementation of Monte-Carlo spanning of a flux space to get feasibility regions of states for a given set of lambdas and various yields drawn from a distribution
 
-- __analyze_2Cx2N.R__ - code which performs analysis of Monte-Carlo spanning results for 2Cx2Nx4S model
+- __analyze_2Cx2N.R__ - code which performs analysis of Monte-Carlo spanning results for 2Cx2Nx4S model (for one set of yields and number of yields drawn from a distribution)
 
 - __analyze_6Cx6N.R__ - code which performs analysis of Monte-Carlo spanning results for 6Cx6Nx36S model
 
