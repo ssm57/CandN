@@ -1,6 +1,6 @@
 # CandN
 
-## The project contains files for Dubinkina et al. 2018, "Alternative stable states in a model of microbial community limited by multiple essential nutrients". ##
+## The project contains files for Dubinkina, V., Fridman, Y., Pandey, P., & Maslov, S. (2018). Alternative stable states in a model of microbial community limited by multiple essential nutrients. arXiv preprint arXiv:1810.04726. ##
 
 Contents of the folder:
 
