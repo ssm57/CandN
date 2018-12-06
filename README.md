@@ -18,7 +18,7 @@ Contents of the folder:
 
 - __Functions.R__ - some customized functions for plotting
 
-- __C6_N6_notes.m__ - File with Matlab code used in the analysis of 6Cx6Nx36S example.
+- __C6_N6_notes.m__ - file with Matlab code used in the analysis of 6Cx6Nx36S example
 
 - __Plots/__ - folder containing plots
 ...
